@@ -1,7 +1,7 @@
 # Tauri V1 Micro Demo
 
-Minimal tauri v1 app used to test the "okcodes/tauri-build" and "okcodes/tauri-updater" GitHub actions.
+## Overview
 
-This app does nothing. It's purpose that it can be built fast to demonstrate automatic  build and automatic updater generation usins the GitHub actions https://github.com/okcodes/tauri-build and https://github.com/okcodes/tauri-updater.
+This repository features a minimalistic Tauri V1 application for testing and demonstrating the [okcodes/tauri-build](https://github.com/okcodes/tauri-build) and [okcodes/tauri-updater](https://github.com/okcodes/tauri-updater) GitHub Actions.
 
-The app is configured to generate an updater and updter signatures.
+The application itself is intentionally minimalistic, performing no specific function other than to be built and updated rapidly.
